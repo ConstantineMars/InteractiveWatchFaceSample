@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "633953065522",
+    "firebase_url": "https://interactivewatchfacesample.firebaseio.com",
+    "project_id": "interactivewatchfacesample",
+    "storage_bucket": "interactivewatchfacesample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633953065522:android:ed10da407df5e7c1",
+        "android_client_info": {
+          "package_name": "cmars.interactivewatchfacesample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633953065522-s066mnp32p02dn3nk5alpvlasdko523b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cmars.interactivewatchfacesample",
+            "certificate_hash": "A5D610D61AF33E0C9810FB18A932CCF783317C78"
+          }
+        },
+        {
+          "client_id": "633953065522-cjhvk04cgvh20c6s0osqgdveaf2qu8hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOmbmuuQAtxW3mWkBZCHsNq73LEi8CKjQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633953065522-cjhvk04cgvh20c6s0osqgdveaf2qu8hq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
